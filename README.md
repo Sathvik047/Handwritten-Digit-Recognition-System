@@ -9,4 +9,4 @@ pictures.
 
 
 
-Technology Stack Python, numpy, tensorflow, keras, pillow, GU
+Technology Stack Python, numpy, tensorflow, keras, pillow, GUI
